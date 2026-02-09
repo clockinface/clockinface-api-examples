@@ -1,7 +1,7 @@
 # ClockInFace API Examples
 
 This repository contains **official examples and interactive demos** for the
-[ClockInFace Facial Recognition Attendance API](https://clockinface.com).
+[ClockInFace Facial Recognition Attendance API](https://clockinface.com "ClockInFace Biometric API Documentation").
 
 ClockInFace provides a production-ready backend for:
 - Facial recognition attendance systems
