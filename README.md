@@ -1,44 +1,45 @@
-# ClockInFace API Examples – Facial Recognition Attendance API
+# ClockInFace API Examples
 
-This repository contains **official API examples and interactive demos** for the
-**ClockInFace Facial Recognition Attendance API**, a production-ready backend for
-building biometric attendance systems, employee clock-in / clock-out workflows,
-and identity verification using face recognition.
+This repository contains **runnable examples and interactive demos** for the
+**ClockInFace Facial Recognition Attendance API**.
 
-These examples are intended for **developers, system integrators, and product teams**
-implementing facial recognition–based attendance or access control systems.
+It is intended for developers who want to **try the API, inspect real requests,
+and run end-to-end flows**, not for architectural or conceptual documentation.
 
----
-
-## What Is ClockInFace?
-
-ClockInFace provides a secure, scalable backend API for:
-
-- Facial recognition attendance systems
-- Biometric clock-in and clock-out
-- Identity verification with face images
-- Workforce automation and access control platforms
-
-The API is designed for real-world deployments where accuracy, explainability,
-and backend control matter.
-
-Official documentation is available at  
-👉 https://clockinface.com
+> 📘 **Looking for system design or architecture documentation?**  
+> Visit the official API documentation site:  
+> 👉 [https://clockinface.github.io/clockinface-api-docs/](https://clockinface.github.io/clockinface-api-docs/)
 
 ---
 
-## 🚀 Quick Start – Facial Recognition API Demo (Google Colab)
+## What This Repository Is For
 
-The fastest way to try the ClockInFace API is through an **interactive Google Colab notebook**.
+This repository focuses exclusively on **execution-level examples**, including:
 
-👉 **[Open the ClockInFace API Colab Demo](https://colab.research.google.com/)**  
-(Upload `clockinface_api_colab_demo.ipynb` from this repository)
+- Runnable API usage examples
+- End-to-end identity and attendance flows
+- Interactive demos using Google Colab
+- Reference requests and responses
 
-The demo walks through a complete facial recognition workflow, including:
+If you want to understand *how the system works conceptually*, use the
+documentation site linked above.  
+If you want to **run code**, you are in the right place.
 
-- Secure Bearer token authentication
+---
+
+## 🚀 Quick Start – Interactive Google Colab Demo
+
+The fastest way to try the ClockInFace API is using the interactive
+Google Colab notebook included in this repository.
+
+👉 **Open in Google Colab**  
+[https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb](https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb)
+
+The notebook demonstrates:
+
+- Bearer token authentication
 - Registering persons with face images
-- Facial recognition for known and unknown faces
+- Facial recognition for known and unknown identities
 - Listing persons and face embeddings
 - Attendance-ready identity verification flows
 
@@ -49,52 +50,44 @@ No local setup is required.
 ## 📦 Repository Contents
 
 - `clockinface_api_colab_demo.ipynb`  
-  End-to-end Google Colab demo showing how to integrate the ClockInFace
-  facial recognition attendance API.
+  End-to-end Google Colab demo showing how to use the ClockInFace API in a
+  realistic attendance workflow.
+
+Additional examples may be added over time as the API evolves.
 
 ---
 
-## 🔐 API Authentication
+## 🔐 Authentication
 
-All ClockInFace API requests use **Bearer token authentication**.
+All API requests use **Bearer token authentication**.
 
-Authentication tokens are issued per configuration and allow control over:
+Authentication tokens are issued per configuration and control:
 
 - Access scope
-- Expiration time
+- Expiration
 - Usage limits
 
 A complete authentication example is included in the Colab notebook.
 
 ---
 
-## 🧠 Typical Use Cases
+## 🔗 Related Resources
 
-This API is designed for production use in scenarios such as:
+- 📘 **API documentation and architecture**  
+  [https://clockinface.github.io/clockinface-api-docs/](https://clockinface.github.io/clockinface-api-docs/)
 
-- Employee attendance tracking systems
-- Facial recognition–based access control
-- On-site workforce validation
-- Multi-location biometric attendance platforms
-
----
-
-## 📚 Documentation & API Reference
-
-- Main website: https://clockinface.com  
-- API base URL: `https://clockinface.com/backend/api/v1/`
-- Interactive demo: Google Colab (linked above)
+- 🌐 **Official website**  
+  [https://clockinface.com](https://clockinface.com)
 
 ---
 
-## 🧩 About This Repository
+## About This Repository
 
-This repository focuses exclusively on **practical API usage examples**.
-It is not a marketing showcase.
+This repository intentionally avoids:
 
-The goal is to provide clear, working reference implementations for developers
-building facial recognition attendance systems who want transparency, control,
-and a clean backend API.
+- System architecture explanations
+- Product comparisons
+- Marketing content
 
-If you are evaluating or integrating biometric attendance using face recognition,
-these examples are the recommended starting point.
+Its purpose is to provide **clear, working reference implementations** for
+developers integrating the ClockInFace facial recognition attendance API.
