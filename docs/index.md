@@ -79,7 +79,7 @@ No local setup is required.
 ## API Endpoint Overview
 
 **Base URL**
-https://clockinface.com/backend/api/v1/
+`https://clockinface.com/backend/api/v1/`
 
 
 The API follows standard REST conventions and returns JSON responses suitable for
@@ -90,9 +90,9 @@ direct integration into backend services or client applications.
 ## Documentation
 
 - Official website and documentation:  
-  👉 https://clockinface.com
+  👉 (https://clockinface.com)
 - API examples and demos:  
-  👉 https://github.com/clockinface/clockinface-api-examples
+  👉 (https://github.com/clockinface/clockinface-api-examples)
 
 ---
 
