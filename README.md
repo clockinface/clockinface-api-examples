@@ -8,7 +8,7 @@ and run end-to-end flows**, not for architectural or conceptual documentation.
 
 > 📘 **Looking for system design or architecture documentation?**  
 > Visit the official API documentation site:  
-> 👉 https://clockinface.github.io/clockinface-api-docs/
+> 👉 [https://clockinface.github.io/clockinface-api-docs/](https://clockinface.github.io/clockinface-api-docs/)
 
 ---
 
@@ -36,10 +36,10 @@ Google Colab notebook included in this repository.
 ### ▶️ Main API Demo
 
 - 📓 **View Notebook on GitHub**  
-  https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb
+  [https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb](https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb)
 
 - 🚀 **Open Directly in Google Colab**  
-  https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb
+  [https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb](https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb)
 
 This notebook demonstrates:
 
@@ -72,10 +72,10 @@ It is ideal for testing:
 ### ▶️ Webhook + Attendance Demo
 
 - 📓 **View Notebook on GitHub**  
-  https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb
+  [https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb](https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb)
 
 - 🚀 **Open Directly in Google Colab**  
-  https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb
+  [https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb](https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb)
 
 ---
 
@@ -109,10 +109,10 @@ Complete authentication examples are included in the notebooks.
 ## 🔗 Related Resources
 
 - 📘 **API documentation and architecture**  
-  https://clockinface.github.io/clockinface-api-docs/
+  [https://clockinface.github.io/clockinface-api-docs/](https://clockinface.github.io/clockinface-api-docs/)
 
 - 🌐 **Official website**  
-  https://clockinface.com
+  [https://clockinface.com](https://clockinface.com)
 
 ---
 
