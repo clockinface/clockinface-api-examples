@@ -33,10 +33,15 @@ If you want to **run code**, you are in the right place.
 The fastest way to try the ClockInFace API is using the interactive
 Google Colab notebook included in this repository.
 
-👉 **Open in Google Colab**  
-https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb
+### ▶️ Main API Demo
 
-The notebook demonstrates:
+- 📓 **View Notebook on GitHub**  
+  https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb
+
+- 🚀 **Open Directly in Google Colab**  
+  https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_api_colab_demo.ipynb
+
+This notebook demonstrates:
 
 - Bearer token authentication
 - Registering persons with face images
@@ -64,8 +69,13 @@ It is ideal for testing:
 - Webhook infrastructure
 - End-to-end production-like flows
 
-👉 **Open the Webhook Demo Notebook**  
-https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb
+### ▶️ Webhook + Attendance Demo
+
+- 📓 **View Notebook on GitHub**  
+  https://github.com/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb
+
+- 🚀 **Open Directly in Google Colab**  
+  https://colab.research.google.com/github/clockinface/clockinface-api-examples/blob/main/clockinface_webhook_attendance_demo.ipynb
 
 ---
 
